@@ -17,8 +17,8 @@ h1 { /* title Header */
     font-size: 70px;
 }
 
-/* anchor tag Header + Footer */
-a {
+
+a { /* anchor tag Header + Footer */
    font-size: 18px;
 }
 
