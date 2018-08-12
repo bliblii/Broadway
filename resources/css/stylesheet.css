@@ -1,0 +1,47 @@
+body {
+    text-align: -webkit-center;
+    text-align:    -moz-center;
+    text-align:         center;
+    font-family: "Helvetica", sans-serif;
+}
+
+.header, a, .NY, footer {
+    color: white;
+}
+
+.header, .NY { /* background header + h2 "Designed in New York" Section" */
+    background-image: url("../images/the-flatiron-building.png");
+}
+
+h1 { /* title Header */
+    font-size: 70px;
+}
+
+/* anchor tag Header + Footer */
+a {
+   font-size: 18px;
+}
+
+h1, .process, .NY, .sub-title { /* "Our Process" + "Designed in New York" Section" */
+    font-weight: bold;
+}
+
+.process { /* title "Our Process" Section */
+    font-size: 32px;
+}
+
+.sub-title, .NY { /* "Our Process" + "Designed in New York" Section */
+    font-size: 23px;
+}
+.content { /* "Our Process" + "Designed in New York" Section */
+    font-size: 14px;
+}
+
+footer { /* Footer */
+    text-align: -webkit-left;
+    text-align:    -moz-left;
+    text-align:         left;
+    background-color: dimgray;
+    font-size: 11px;
+}
+
